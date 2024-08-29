@@ -1,6 +1,6 @@
 # LSTM Strategy
 
-<p>This project aims to predict weekly stock prices using a Long Short-Term Memory (LSTM) neural network model. The model is trained using historical stock data to generate future predictions. The implementation includes both a research environment for model development and a live trading algorithm to execute trades based on the model's predictions.</p>
+<p>This project aims to predict stock prices using a Long Short-Term Memory (LSTM) neural network model. The model is trained using historical stock data to generate future predictions. The implementation includes both a research environment for model development and a live trading algorithm to execute trades based on the model's predictions.</p>
 
 ### Features
 **Data Loading and Preprocessing**: Historical stock data is loaded and preprocessed, including feature engineering with various technical indicators such as EMA, SMA, MACD, and rolling statistics.<br>
