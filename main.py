@@ -6,7 +6,7 @@ from tensorflow.keras.models import model_from_json
 import json
 # endregion
 
-class LSTMWeeklyPrediction(QCAlgorithm):
+class LSTMPrediction(QCAlgorithm):
 
     def initialize(self):
         self.set_start_date(2022, 12, 1)
